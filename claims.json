@@ -1,0 +1,5 @@
+[
+  {"claim":"Allowlisted event routing and one visible employee handoff in one thread", "state":"demonstrated offline", "code":"routing.py:select_turn; coordinator.py:run_turn", "test":"tests/test_collaboration.py", "limit":"No live Slack or provider adapter shipped in this slice"},
+  {"claim":"Recorded event IDs suppress duplicate execution, including an uncertain-send retry", "state":"demonstrated offline", "code":"routing.py:deliver", "test":"tests/test_collaboration.py:CollaborationTests.test_uncertain_send_is_not_automatically_retried", "limit":"At-most-once admission; interrupted turns can remain incomplete; operator reconciliation required"},
+  {"claim":"Authenticated live round trip and independently commissioned employees", "state":"proposed acceptance work", "code":null, "test":null, "limit":"Offline fixture success is not deployment acceptance or a v1 release"}
+]

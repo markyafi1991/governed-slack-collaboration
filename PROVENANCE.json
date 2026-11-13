@@ -1,0 +1,21 @@
+{
+  "coordinator.py": {
+    "source_sha256": "944be199268d03acf10adbd3e948af45b34610dd1a359291bca894c4050d896e",
+    "extraction": "Exact whole module"
+  },
+  "routing.py": {
+    "source_sha256": "172e17a74c7d364954a508a3ed65e1be51d974e2bc51d8a1b1db76d32b7f50cf",
+    "extraction": "Exact selected symbols; offline import prelude",
+    "symbols": {
+      "EMPLOYEE_ID": "7a9a287f508b87c9c70fe7c81f7581ca0caa29caabb15138eea962c1625f22ee",
+      "TIMESTAMP": "bf73b5762c71de13e7bd5dc86fc1125e2f8a4a6d38322b78278b1b198e4fc230",
+      "Office": "a91bf1e7ba00ed386a1716d48cc316b961a6356ce81c08271aa2409600feb812",
+      "Turn": "8678bd793b21600fedf5235613a093825e8f4de69c4235fa3e31cb42b2b1e29a",
+      "slack_id": "46a8a4e40a92c4f9f562f4190267a443b0d44ec92418e55ee2496f57e488cc66",
+      "load_office": "2a964fd2c19fc4c21bf4b49c4a8b337fe5a3554afb8c5abc003831fe8b0ea358",
+      "select_turn": "42ddd9d92298bca2b756752ce4fd15ec31749493e416d679cda6bea3327682ea",
+      "init_receipts": "d07475cb21a4a0a791a1ea578074de10b0235d565534288815dcf287bd6a2197",
+      "deliver": "fa3a3641fc3f5f9b34b9ce61bffdb7f4b45488435bd50b1164bd0ec3e6c43182"
+    }
+  }
+}

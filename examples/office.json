@@ -1,0 +1,9 @@
+{
+  "workspace": "TFIXTURE",
+  "channel": "CFIXTURE",
+  "users": ["UOWNER"],
+  "employees": [
+    {"employee_id":"operations","display_name":"Synthetic Operations Lead","provider":"openai","model":"offline-fixture","instructions":"Discuss only the fictional launch fixture."},
+    {"employee_id":"risk","display_name":"Synthetic Risk Reviewer","provider":"xai","model":"offline-fixture","instructions":"Review only the fictional launch fixture."}
+  ]
+}

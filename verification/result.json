@@ -1,0 +1,10 @@
+{
+  "date": "2026-11-13",
+  "tests": 13,
+  "passed": 13,
+  "synthetic_only": true,
+  "live_acceptance": false,
+  "ci_run": "not yet run",
+  "test_log_sha256": "f07a123d4438b0e28989fcd699951246de0c32d3738bd45220d163d27136ca4a",
+  "demo_sha256": "0ec4f6bd7256ed7d32d4067b3fb3c47e030bc6b1a33b71c0b3dae2dc1d805cb3"
+}
